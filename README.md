@@ -13,3 +13,5 @@ Requirements include:
 
 - Setup sip server
 - Use jssip
+- Use CORDOVA/Ionic
+- Test the jssip-cordova plugin
