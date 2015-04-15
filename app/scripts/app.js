@@ -10,7 +10,7 @@ var configuration = {
 
 var ua = new JsSIP.UA(configuration);
 
-console.log('api 15:39');
+console.log('api 12:38');
 
 ua.start();
 
